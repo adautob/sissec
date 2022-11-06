@@ -25,14 +25,12 @@ http://www.aeblog.ml/sissec/
 - Java
 - Spring Security
 - Spring Boot
-- JPA / Hibernate
 - Maven
 ## Front end
 - Thymeleaf
 - Bootstrap
 - HTML
 - CSS
-- JavaScript
 
 # Autor
 Adauto Bueno
