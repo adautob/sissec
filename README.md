@@ -7,7 +7,7 @@
 Autenticação de usuário utilizando Spring Security. Para o front-end utilizado Bootstrap. Deploy em VPS com Tomcat.
 
 ### Acesse aqui a versão demo:
-https://lnkd.in/d9TdU4E8
+https://bit.ly/3FcBwNQ
 
 ## Layout web
 
